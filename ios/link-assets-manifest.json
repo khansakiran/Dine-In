@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "resources/fonts/SofiaSans-Bold.ttf",
+      "sha1": "1eb2e9c5cb011f267cab077b40a3e8c064907c8c"
+    },
+    {
+      "path": "resources/fonts/SofiaSans-Light.ttf",
+      "sha1": "ea3694d1b107eb7b7a826ee086a0cb34b1a34ace"
+    },
+    {
+      "path": "resources/fonts/SofiaSans-Regular.ttf",
+      "sha1": "7d30a9dd3a4f8e27906afceb8b565e3d5714bfd1"
+    }
+  ]
+}
